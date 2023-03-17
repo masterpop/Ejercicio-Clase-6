@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         // Crear productos
-        Producto jabonEnPolvo = new Producto(1, "jabón en polvo");
+        Producto jabonEnPolvo = new Producto(0, "jabón en polvo");
         Producto esponjas = new Producto(0, "esponjas");
         Producto chocolates = new Producto(0, "chocolates");
 
